@@ -1,0 +1,3 @@
+require("mihnea")
+print("hello")
+
