@@ -1,2 +1,2 @@
 require("mihnea.remap")
-print("hallo!")
+require("mihnea.set")

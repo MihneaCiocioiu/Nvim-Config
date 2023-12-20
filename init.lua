@@ -1,3 +1,2 @@
 require("mihnea")
-print("hello")
 
